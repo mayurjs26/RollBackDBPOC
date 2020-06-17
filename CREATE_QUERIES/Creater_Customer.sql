@@ -1,1 +1,1 @@
-select * from customer;
+select * from customer.customer_info;
