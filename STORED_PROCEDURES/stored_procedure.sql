@@ -1,0 +1,1 @@
+select * from customer.customer_info;
