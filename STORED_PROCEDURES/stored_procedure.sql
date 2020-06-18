@@ -1,5 +1,1 @@
-start transaction;
-begin
-
-select * from customer.address3
-end
+select * from customer.address4;
