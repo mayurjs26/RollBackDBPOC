@@ -1,1 +1,1 @@
-select * FROM customer.customer_inf
+select * FROM customer.customer_inf;
