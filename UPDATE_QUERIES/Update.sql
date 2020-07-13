@@ -1,1 +1,1 @@
-UPDATE `customer`.`customer_info` SET `age` = '30' WHERE (`id` = '4');
+UPDATE `customer`.`customer_info` SET `age` = '30' WHERE (`id` = '6');

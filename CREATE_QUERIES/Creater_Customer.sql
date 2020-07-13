@@ -1,1 +1,1 @@
-SELECT * FROM customer.customer_info;
+SELECT * FROM customer.flyway_schema_history;
