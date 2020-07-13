@@ -1,1 +1,1 @@
-select * from customer.addres;
+select * from customer.address;
