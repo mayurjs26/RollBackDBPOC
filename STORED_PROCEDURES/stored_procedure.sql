@@ -1,2 +1,1 @@
-start transaction;
-end
+select * FROM customer.customer_info;
