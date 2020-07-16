@@ -1,1 +1,1 @@
-SELECT * FROM customer.flyway_schema_histo;
+SELECT * FROM customer.flyway_schemahistory;
